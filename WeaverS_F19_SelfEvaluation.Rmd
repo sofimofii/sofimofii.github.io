@@ -1,0 +1,121 @@
+---
+title: "AN/BI 588: End-of-Semester Self Evaluation"
+author: "Sofia M Weaver"
+date: "2023 Dec 18"
+output: 
+  rmarkdown::html_document:
+    theme: cosmo
+---
+***
+***
+<center>
+
+<font size="+2"><b>I'll never do data analysis outside of R again (if I can help it).</b></font></center><br>
+
+<center><p><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnp3dW8xNDI1c3o4YXRiNWp2ejJjaXlhaXZ3NjhzcXNobHhmcjBvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ml4Mgjut3qdW2tpLPq/giphy.gif" style="border:5px solid black"></p>
+</center><br>  
+
+<center>
+I started this course with <ins>baby</ins> background in R and an even *more* baby background in stats but, through trials (modules) and tribulations (homework assignments), I have come out the other side being able to code! I've been told that knowing how to code is essential for handling and analyzing your data (from friends in grad school studying neuroscience and obvs working on the pipeline), but this course has really opened my eyes to just how useful it is. I've already been able to apply coding to my own research. 
+</center>
+***
+
+
+***
+
+### What were you asked to do?
+
+***
+
+* Weekly [modules](https://github.com/sofimofii/AN588)
+* Homework Assignments
+    + [Push It!](https://github.com/sofimofii/AN588-Week-2-weavers/blob/main/weavers_FinalHomeworkCode_01..html) 
+    + [Titis in the Mist...](https://github.com/sofimofii/AN588-week-3-weavers/blob/main/weavers_FinalHomeworkCode_02.html)
+    + [Some of my Best Friends are Zombies...](https://github.com/sofimofii/AN588_Zombies_weavers/blob/main/weavers_OriginalHomeworkCode_03.html)
+    + [What's your malfunction?](https://github.com/sofimofii/AN588-Malfucation-weavers/blob/main/weavers_FinalHomeworkCode_04.html)
+    + [Boots for Days!](https://github.com/sofimofii/AN588_Boots_weavers/blob/main/weavers_FinalHomeworkCode_05.html)
+      - Along with peer commentary for each
+* [Analysis Replication Assignment](https://github.com/sofimofii/weavers-data-replication-assignment/blob/main/weavers-data-replication-assignment.html)
+* [Group Presentation and R Vignette](https://github.com/rhottensomers/AN588_R_Vignette/blob/main/Bioacoustic_Vignette.html)
+
+
+***
+
+### What did you accomplish?
+
+***
+
+I accomplished all of these tasks! Perhaps not with 100% accuracy, but I did attempt and complete every task assigned to us to the best of my abilities.
+
+**NOTE:** I broke my laptop the week of October 8th, so I was a bit late on sharing my *Some of my Best Friends are Zombies* rmd with those in my peer group. You okayed this and I communicated to them my situation. 
+
+**ANOTHER NOTE:** I am the worst at pushing my modules (apparently) and I also transferred all my module rmds to one repo at some point in the semester, so some dates of commits are *not* accurate. I did do them on time weekly :(
+
+
+***
+
+### How well did you accomplish them?
+
+***
+
+In general, I think I did a good job on these assignments and I tried hard to make my code concise and understandable for both me and my peer commentators. I think the best thing I did was utilize the internet for trouble shooting code. The modules were useful as well, of course, but I got good at being able to google how to do things in R, which I think will be really useful in the future.
+
+Even though I always completed assignments by the deadlines, I wish I had been better about giving myself enough time to marinate with my code, but this semester was so busy. Trying to understand the new math and immediately applying it in R was absolutely the most difficult part of this course. I think I would have had a significantly easier time if I already had a background in statistics and it makes me want to try to do my old calculus assignments in R. However, as the semester progressed I felt like I was getting faster at understanding the material and applying it. Troubleshooting my code also got faster (especially when working on the pipeline!!).
+
+***
+
+### How has your understanding of and approach to statistics and project design changed since taking this course?
+
+***
+
+I think that my way of thinking about project design has gained much more shape and direction after taking this course. Knowing the different ways you can answer questions statistically provides the space to ask better, more realistic research questions. Analyzing my data is less daunting, and I feel like I have the tools to either answer the research questions (or figure out how to) I have and will have in the future. I definitely feel more excited and less nervous about developing research projects now that I have a new found background in R and stats. It's also really exciting to be able to read papers and understand the methods much better, especially in this field. It's cool to be able to have an opinion on how people went about their analyses and I feel like I'm gaining more out of reading publications now.    
+
+***
+
+### What did you learn from all this?
+
+***
+
+I learned way more than three things! But I think my main three takeaways are:
+
+1. The basics of R and how to use it to run some statistical analyses! In addition to gaining tools on learning new things in R on my own (e.g. reading about packages or vignettes)
+2. Ways to make my data and analyses more replicable (i.e. data organization, methods writing, code annotation, etc.).
+3. How to code with a group. I view coding as a skill that's used independently, when that isn't necessarily the case. Even though I despise group work in classroom settings, this aspect of the course was so helpful. I'll talk more about this in the spaces below.
+
+***
+
+### What did your learn about teamwork in this course? How did the readings on teamwork foster this understanding? How did the teamwork experiences?
+
+***
+
+Like I said, group work gets a thumbs down from Sofia (in class settings). I didn't feel like that was the case for this course, however. The Vignette in particular was really helpful in practicing accountability, communication, and utilizing each individual's backgrounds and skill sets. The idea of coding with other people in the beginning kind of made me want to yak, but it was so incredibly helpful to troubleshoot code with others. Talking about code is essential! I learned way more tricks and how to be more efficient this way than just coding on my own. When it comes to coursework, I can be stubborn about just wanting to get things done efficiently and alone, but I gained a lot from the teamwork aspect that was asked for this course. 
+
+***
+
+### How did the Peer Commentary process and Group Project relate, if at all, to what you view as your successes or difficulties in this course?
+
+***
+
+Peer commentary was so helpful for submitting accurate work and serving as reassurance. Everyone was so kind in their comments and comparing code was really helpful in deciding what works best for me, or learning new skills and techniques from peers. Even when our code was essentially the same, learning how to code is really daunting and it was really reassuring when we decided to go about it in the same ways or were struggling in the same ways. I was lucky with my group assignments as my peers were very responsive and always shared documents and got commentary back to me on time. I think my final products of assignments greatly benefited from the peer commentary I received. 
+
+***
+
+### What, if anything, of lasting value do you take away from this experience? If nothing, what would you do differently if you were to start over in this course? 
+
+***
+
+When I started college, I never imagined that I would learn to code. Now, I can't even imagine moving forward in my academic endeavors without it. I am so immensely thankful I took this course as an undergrad. I see handling data in a completely new and different light. The data reanalysis seriously changed the way I think about papers, too. This course not only gave me a great toolbox with a new working framework for project design inside it, but skills to figure out how to make that toolbox bigger and better. I'm really excited to keep learning how to code in the future. 
+
+***
+
+### Taking this self-assessment into account (and with **A** being the highest), if you were the instructor, what grade would you give yourself given your evaluation of your own performance this semester? Please be honest.
+
+***
+
+<br><center>A</center><br>
+
+***
+
+
+
+
